@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\obj\Debug\Lights out.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\obj\Debug\Lights_out.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\obj\Debug\Lights out.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\bin\Debug\Lights out.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\bin\Debug\Lights out.exe
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\bin\Debug\Lights out.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\obj\Debug\Lights out.exe
+C:\Users\User\Documents\SharpDevelop Projects\Lights out\Lights out\obj\Debug\Lights out.pdb
